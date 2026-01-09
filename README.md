@@ -39,3 +39,9 @@ NPV=∑(1+r)tCFt​​
 
 IRR Calculation:
 IRR is calculated using an iterative approach, where the discount rate is adjusted until NPV changes sign.
+
+Net Present Value (NPV): At a discount rate of 11%, the NPV is 583.01, which indicates that the project creates value and generates returns above the cost of capital.
+
+Internal Rate of Return (IRR): The calculated IRR is 33.79%, representing the project’s expected annual return.
+
+Since the IRR (33.79%) is significantly higher than the discount rate (11%), the project is financially profitable and acceptable.
