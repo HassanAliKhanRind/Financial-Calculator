@@ -34,29 +34,8 @@ Basic Financial Mathematics
 
 NPV Formula:
 
-N
-P
-V
-=
-∑
-𝐶
-𝐹
-𝑡
-(
-1
-+
-𝑟
-)
-𝑡
-NPV=∑
-(1+r)
-t
-CF
-t
-	​
-
-	​
-
+NPV=∑(1+r)tCFt​​
+	​	
 
 IRR Calculation:
 IRR is calculated using an iterative approach, where the discount rate is adjusted until NPV changes sign.
