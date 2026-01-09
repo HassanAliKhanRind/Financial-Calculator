@@ -32,11 +32,11 @@ Basic Financial Mathematics
 
 🧮 Financial Logic Used
 
-NPV Formula
+NPV Formula:
 
-𝑁
-𝑃
-𝑉
+N
+P
+V
 =
 ∑
 𝐶
