@@ -58,5 +58,5 @@ t
 	​
 
 
-IRR Calculation
+IRR Calculation:
 IRR is calculated using an iterative approach, where the discount rate is adjusted until NPV changes sign.
